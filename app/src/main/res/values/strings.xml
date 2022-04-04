@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OpDrop</string>
+    <string name="make_sure_you_are_enabled_vpn">Make sure you are enabled VPN!</string>
+    <string name="notificationMsg_preparingTask">Open the app</string>
+    <string name="notificationMsg_cellularNetwork">you are on mobile connection! It could cost something for you…</string>
+    <string name="notificationMsg_wifi">you are on Wifi</string>
+
+    <string name="notificationMsg_initialTitle">OpDrop - waiting for you command! 🇺🇦</string>
+    <string name="updateDialog_title">New message</string>
+    <string name="batteyOptimizationDialog_title">Battery optimization</string>
+    <string name="batteyOptimizationDialog_msg">For better performance, please, disable battery optimization feature.</string>
+</resources>

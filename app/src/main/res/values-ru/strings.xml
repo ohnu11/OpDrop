@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OpDrop</string>
+    <string name="make_sure_you_are_enabled_vpn">Обов\'язково використовуйте VPN!</string>
+    <string name="notificationMsg_preparingTask">Відкрийте аплікацію.</string>
+    <string name="notificationMsg_cellularNetwork">використовується мобільний інтернет! Це може трохи коштувати грошей…</string>
+    <string name="notificationMsg_wifi">використовується Wi-Fi</string>
+
+    <string name="notificationMsg_initialTitle">OpDrop - чекаю на команду! 🇺🇦</string>
+    <string name="updateDialog_title">Нове повідомлення</string>
+    <string name="batteyOptimizationDialog_title">Оптимізація батареї</string>
+    <string name="batteyOptimizationDialog_msg">Для кращої продуктивності, будь ласка, вимкніть функцію оптимізації батареї.</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "325035424190",
+    "project_id": "ohnull-opdrop",
+    "storage_bucket": "ohnull-opdrop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325035424190:android:4cbbf97262539f9a1aa1ef",
+        "android_client_info": {
+          "package_name": "com.ohnull.opdrop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325035424190-s6nkieh18in6v0abscgf0u7epjuvmtp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfAAOi6ADu8yQ9ZPU0-0wNiRSvtlJ3MEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325035424190-s6nkieh18in6v0abscgf0u7epjuvmtp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
